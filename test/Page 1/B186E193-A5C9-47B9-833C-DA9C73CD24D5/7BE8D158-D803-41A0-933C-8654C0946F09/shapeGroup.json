@@ -1,6 +1,6 @@
 {
   "_class": "shapeGroup",
-  "do_objectID": "490EFBFE-E526-4CB2-8E99-8EC3D03A1A43",
+  "do_objectID": "7BE8D158-D803-41A0-933C-8654C0946F09",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [],
@@ -13,8 +13,8 @@
     "constrainProportions": true,
     "height": 208,
     "width": 208,
-    "x": 84,
-    "y": 96
+    "x": 45,
+    "y": 436
   },
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
@@ -74,9 +74,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.1066960170865059,
-          "green": 0.007513228338211775,
-          "red": 0.816203773021698
+          "blue": 0.9529411764705882,
+          "green": 0.7019607843137254,
+          "red": 0.1058823529411764
         },
         "fillType": 0,
         "noiseIndex": 0,
@@ -91,7 +91,7 @@
   "hasClickThrough": false,
   "layers": [
     {
-      "id": "1FE8C472-9D62-45E0-AA2E-2A000ECCAED0",
+      "id": "CCA4E2A6-F75E-4E52-90A6-4F2D65BCDC43",
       "class": "oval"
     }
   ],

@@ -1,6 +1,6 @@
 {
-  "_class": "artboard",
-  "do_objectID": "B186E193-A5C9-47B9-833C-DA9C73CD24D5",
+  "_class": "symbolMaster",
+  "do_objectID": "B6C800EB-EE5B-4221-B960-A43602FFA4A6",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [],
@@ -11,17 +11,17 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 667,
+    "height": 65,
     "width": 375,
-    "x": 502,
-    "y": 95
+    "x": 100,
+    "y": 0
   },
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "iPhone 7",
+  "name": "Rectangle",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -36,16 +36,8 @@
   "hasClickThrough": true,
   "layers": [
     {
-      "id": "490EFBFE-E526-4CB2-8E99-8EC3D03A1A43",
+      "id": "1F87C8B7-AB17-41A6-B594-0AAF0AC7878F",
       "class": "shapeGroup"
-    },
-    {
-      "id": "7BE8D158-D803-41A0-933C-8654C0946F09",
-      "class": "shapeGroup"
-    },
-    {
-      "id": "58F0CCD5-9264-423F-8153-2D6EA821CA8E",
-      "class": "symbolInstance"
     }
   ],
   "backgroundColor": {
@@ -68,5 +60,8 @@
     "_class": "rulerData",
     "base": 0,
     "guides": []
-  }
+  },
+  "includeBackgroundColorInInstance": false,
+  "symbolID": "15367288-20AD-40FF-82EF-FAAFD663ACEF",
+  "changeIdentifier": 0
 }

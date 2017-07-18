@@ -1,6 +1,6 @@
 {
   "_class": "artboard",
-  "do_objectID": "B186E193-A5C9-47B9-833C-DA9C73CD24D5",
+  "do_objectID": "8735806C-21AD-4E3A-BCB4-4AF20DE40B16",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [],
@@ -13,7 +13,7 @@
     "constrainProportions": false,
     "height": 667,
     "width": 375,
-    "x": 502,
+    "x": 977,
     "y": 95
   },
   "isFlippedHorizontal": false,
@@ -21,7 +21,7 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "iPhone 7",
+  "name": "iPhone 7 Copy",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -36,15 +36,7 @@
   "hasClickThrough": true,
   "layers": [
     {
-      "id": "490EFBFE-E526-4CB2-8E99-8EC3D03A1A43",
-      "class": "shapeGroup"
-    },
-    {
-      "id": "7BE8D158-D803-41A0-933C-8654C0946F09",
-      "class": "shapeGroup"
-    },
-    {
-      "id": "58F0CCD5-9264-423F-8153-2D6EA821CA8E",
+      "id": "4D214104-0532-4136-AB2F-43781930B464",
       "class": "symbolInstance"
     }
   ],

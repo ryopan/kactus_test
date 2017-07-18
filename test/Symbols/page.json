@@ -1,6 +1,6 @@
 {
-  "_class": "artboard",
-  "do_objectID": "B186E193-A5C9-47B9-833C-DA9C73CD24D5",
+  "_class": "page",
+  "do_objectID": "618E32BC-F99E-49CF-988F-76942B254548",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [],
@@ -11,17 +11,17 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 667,
-    "width": 375,
-    "x": 502,
-    "y": 95
+    "height": 300,
+    "width": 300,
+    "x": 0,
+    "y": 0
   },
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "iPhone 7",
+  "name": "Symbols",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -36,37 +36,19 @@
   "hasClickThrough": true,
   "layers": [
     {
-      "id": "490EFBFE-E526-4CB2-8E99-8EC3D03A1A43",
-      "class": "shapeGroup"
-    },
-    {
-      "id": "7BE8D158-D803-41A0-933C-8654C0946F09",
-      "class": "shapeGroup"
-    },
-    {
-      "id": "58F0CCD5-9264-423F-8153-2D6EA821CA8E",
-      "class": "symbolInstance"
+      "id": "B6C800EB-EE5B-4221-B960-A43602FFA4A6",
+      "class": "symbolMaster"
     }
   ],
-  "backgroundColor": {
-    "_class": "color",
-    "alpha": 1,
-    "blue": 1,
-    "green": 1,
-    "red": 1
-  },
-  "hasBackgroundColor": false,
   "horizontalRulerData": {
     "_class": "rulerData",
-    "base": 0,
+    "base": -293,
     "guides": []
   },
-  "includeBackgroundColorInExport": true,
   "includeInCloudUpload": true,
-  "resizesContent": false,
   "verticalRulerData": {
     "_class": "rulerData",
-    "base": 0,
+    "base": -432,
     "guides": []
   }
 }
