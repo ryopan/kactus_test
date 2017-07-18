@@ -1,6 +1,6 @@
 {
   "_class": "shapeGroup",
-  "do_objectID": "490EFBFE-E526-4CB2-8E99-8EC3D03A1A43",
+  "do_objectID": "0E9A5665-A75C-4F6C-91D7-8511EE093E31",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [],
@@ -11,17 +11,17 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": true,
-    "height": 208,
-    "width": 208,
-    "x": 84,
-    "y": 96
+    "height": 34,
+    "width": 34,
+    "x": 0,
+    "y": 0
   },
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 1,
-  "name": "Oval",
+  "name": "Rectangle 2",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -29,23 +29,7 @@
   "shouldBreakMaskChain": false,
   "userInfo": {
     "com.animaapp.stc-sketch-plugin": {
-      "kModelPropertiesKey": {
-        "constraints": {
-          "scaleFactor": 1,
-          "model_version": 0.1,
-          "aspectRatio": {
-            "model_class": "ADModelConstraint",
-            "enabled": 1,
-            "model_version": 0.1,
-            "constant": 208,
-            "multiplier": 208,
-            "modelID": "constraint_8c4c013d-956b-431a-b66b-e2c774b7ad43"
-          },
-          "modelID": "viewConstraints_f04661e5-ed62-470f-ac65-04d219e0b60b",
-          "model_class": "ADModelViewConstraints",
-          "automatic": 1
-        }
-      }
+      "kModelPropertiesKey": {}
     }
   },
   "style": {
@@ -74,9 +58,9 @@
         "color": {
           "_class": "color",
           "alpha": 1,
-          "blue": 0.1066960170865059,
-          "green": 0.007513228338211775,
-          "red": 0.816203773021698
+          "blue": 0.9529411764705882,
+          "green": 0.7019607843137254,
+          "red": 0.1058823529411764
         },
         "fillType": 0,
         "noiseIndex": 0,
@@ -91,8 +75,8 @@
   "hasClickThrough": false,
   "layers": [
     {
-      "id": "1FE8C472-9D62-45E0-AA2E-2A000ECCAED0",
-      "class": "oval"
+      "id": "298A7FFD-4F4C-45F7-8366-4C26977C1741",
+      "class": "rectangle"
     }
   ],
   "clippingMaskMode": 0,
