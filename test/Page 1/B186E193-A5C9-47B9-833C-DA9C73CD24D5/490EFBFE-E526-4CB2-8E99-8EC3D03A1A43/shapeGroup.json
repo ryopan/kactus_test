@@ -1,0 +1,101 @@
+{
+  "_class": "shapeGroup",
+  "do_objectID": "490EFBFE-E526-4CB2-8E99-8EC3D03A1A43",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [],
+    "includedLayerIds": [],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "height": 208,
+    "width": 208,
+    "x": 84,
+    "y": 96
+  },
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "name": "Oval",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "scaleFactor": 1,
+          "model_version": 0.1,
+          "aspectRatio": {
+            "constant": 208,
+            "model_version": 0.1,
+            "enabled": 1,
+            "modelID": "constraint_8c4c013d-956b-431a-b66b-e2c774b7ad43",
+            "model_class": "ADModelConstraint",
+            "multiplier": 208
+          },
+          "modelID": "viewConstraints_f04661e5-ed62-470f-ac65-04d219e0b60b",
+          "model_class": "ADModelViewConstraints",
+          "automatic": 1
+        }
+      }
+    }
+  },
+  "style": {
+    "_class": "style",
+    "borders": [
+      {
+        "_class": "border",
+        "isEnabled": false,
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.592,
+          "green": 0.592,
+          "red": 0.592
+        },
+        "fillType": 0,
+        "position": 1,
+        "thickness": 1
+      }
+    ],
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "isEnabled": true,
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.9529411764705882,
+          "green": 0.7019607843137254,
+          "red": 0.1058823529411764
+        },
+        "fillType": 0,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 0,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "hasClickThrough": false,
+  "layers": [
+    {
+      "id": "1FE8C472-9D62-45E0-AA2E-2A000ECCAED0",
+      "class": "oval"
+    }
+  ],
+  "clippingMaskMode": 0,
+  "hasClippingMask": false,
+  "windingRule": 1
+}
